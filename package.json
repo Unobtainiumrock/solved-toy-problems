@@ -1,0 +1,11 @@
+{
+  "name": "solved-toy-problem-compilation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Unobtainiumrock/solved-toy-problems.git",
+  "author": "Unobtainiumrock <unobtainiumrock@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
