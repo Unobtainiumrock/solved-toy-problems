@@ -47,3 +47,9 @@ const dreamSort = (arr) => {
   })
   return zeroes.concat(ones);
 }
+
+// The best is just to use the built-in sort, but that'd be considered "cheating"
+const quickSort (arr) => {
+  arr.sort((a,b) => a - b);
+  return arr;
+}
